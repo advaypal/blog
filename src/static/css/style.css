@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	color: white;
+}
+.nav {
+	margin-top: 10px;
+}
+.nav .pull-right {
+	margin-top: 12px;
+}
+.header {
+	margin-top: 20px;
+}
+h1 {
+	font-size: 50;
+}
+.search {
+	margin-top: 75px;
+}
+.posts {
+	
+}
