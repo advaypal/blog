@@ -1,8 +1,7 @@
 <html>
 	<head>
 		<title> Advay's blog </title>
-		<link rel="stylesheet" type="text/css" href="/../../static/css/bootstrap.css"/>
-		<link rel="stylesheet" type="text/css" href="/../../static/css/style.css"/>
+		<link rel="stylesheet" type="text/css" href="../static/css/bootstrap.css"/>
 		<script type="text/javascript">
 			function logoutconfirm() {
 				return confirm("Are you sure you wish to logout?");
